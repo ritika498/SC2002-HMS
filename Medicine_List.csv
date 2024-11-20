@@ -1,0 +1,4 @@
+MedicineName,Stock,LowAlert,RefillRequest
+Paracetamol,100,20,false
+Ibuprofen,50,10,false
+Amoxicillin,75,15,false

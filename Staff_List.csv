@@ -1,0 +1,5 @@
+StaffID,Name,Role,Gender,Age,ContactInfo
+D001,John Smith,Doctor,Male,45,99
+D002,Emily Clarke,Doctor,Female,38,99
+P001,Mark Lee,Pharmacist,Male,29,99
+A001,Sarah Lee,Administrator,Female,40,99
