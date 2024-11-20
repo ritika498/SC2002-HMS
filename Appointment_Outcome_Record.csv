@@ -1,0 +1,2 @@
+﻿AppointmentID,Date,TypeOfService,Prescription,PrescriptionStatus,PatientID
+A1000,2024-12-11,Knee Surgery,Ibuprofen,true,P1001
